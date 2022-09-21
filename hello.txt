@@ -9,3 +9,4 @@ hello git
 hello git
 hello git
 hot-fix分支修改
+hot-fix模拟冲突
