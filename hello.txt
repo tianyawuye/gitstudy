@@ -10,3 +10,4 @@ hello git
 master主分支修改
 hello git
 hot-fix分支修改
+hot-fix模拟冲突
