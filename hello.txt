@@ -6,9 +6,10 @@ hello git
 hello git
 hello git
 hello git
+
+hot-fix模拟冲突
 hello git
 master主分支修改
 master主分支修改---模拟冲突
 hello git
 hot-fix分支修改
-hot-fix模拟冲突
